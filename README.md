@@ -1,4 +1,4 @@
 TestRepo
 ========
 
-Repo to test GIT
+Repo to test GITHUB
